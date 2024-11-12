@@ -1,0 +1,8 @@
+./lib/*
+*.o
+*.a
+*.d
+
+.Makefile.swpx
+tb6612fng_tests
+settings.json
